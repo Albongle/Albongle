@@ -1,5 +1,5 @@
 ![](https://github.com/Albongle/Albongle/blob/master/Programacion.gif)
-### 👋Soy estudiante de la Tecnicatura en Programacion de la UTN :ballot_box_with_check:
+### :ballot_box_with_check:Soy estudiante de la Tecnicatura en Programacion de la UTN 
 
 <!--
 **Albongle/Albongle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
