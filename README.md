@@ -1,5 +1,5 @@
 ![](https://github.com/Albongle/Albongle/blob/master/Programacion.gif)
-### 👋I'm programming student at the National Technological University (UTN)
+### 👋I'm programming student at the National Technological University
 
 <!--
 **Albongle/Albongle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
