@@ -1,5 +1,5 @@
 ### Hi there 👋
-[](https://github.com/Albongle/Albongle/blob/master/Programacion.gif)
+![](https://github.com/Albongle/Albongle/blob/master/Programacion.gif)
 <!--
 **Albongle/Albongle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
