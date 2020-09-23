@@ -1,5 +1,6 @@
-### Hi there 👋
 ![](https://github.com/Albongle/Albongle/blob/master/Programacion.gif)
+###👋 I'm Alejandro Bongioanni a programming student at the National Technological University (UTN)
+
 <!--
 **Albongle/Albongle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
